@@ -3,7 +3,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/529621377964*`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Danielbot01/monovan-bot-.git`},
+    'document': {url: `https://github.com/Danielbot01/Ana-bot.git`},
     'mimetype': ` `,
     'fileName': `「  Concede Ana-Bot  」`,
     'fileLength': 99999999999999,
@@ -12,7 +12,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Danielbot01/monovan-bot-.git',
+        'mediaUrl': 'https://github.com/Danielbot01/Ana-bot.git',
         'mediaType': 2,
         'previewType': 'url',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
