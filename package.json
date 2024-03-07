@@ -1,7 +1,7 @@
 {
-  "name": "Monovan-Bot-MD",
+  "name": "Ana-Bot",
   "version": "1.0.0",
-  "description": "Usa Monovan-Bot",
+  "description": "Usa Ana-Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Danielbot01/monovan-bot-.git",
+  "homepage": "https://github.com/Danielbot01/Ana-bot.git",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Danielbot01/monovan-bot-.git"
+    "url": "https://github.com/Danielbot01/Ana-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Danielbot01/monovan-bot-.git/issues"
+    "url": "https://github.com/Danielbot01/Ana-bot.git/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
