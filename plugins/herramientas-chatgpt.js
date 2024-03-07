@@ -3,8 +3,8 @@
 /*                                                       */
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
 /*     —◉ DESAROLLADO POR:                               */
-/*     ◉ Creador MONOVAN                                 */
-/*     ◉ Número: wa.me/527299350963                      */
+/*     ◉ Creador AnaShop                                 */
+/*     ◉ Número: wa.me/529621377964                      */
 /*                                                        */
 /*                                                        */
 /*                                                        */
@@ -23,7 +23,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   try {
         conn.sendPresenceUpdate('composing', m.chat);
         //let sistema1 = await fetch(`https://raw.githubusercontent.com/Skidy89/chat-gpt-jailbreak/main/Text.txt`).then(v => v.text());
-        let sistema1 = `Actuaras como un Bot de WhatsApp el cual fue creado por Monovan , tu seras Monovanbot.`;
+        let sistema1 = `Actuaras como un Bot de WhatsApp el cual fue creado por AnaShop , tu seras Ana-Bot.`;
         async function getOpenAIChatCompletion(texto) {
         const openaiAPIKey = global.openai_key;
         let chgptdb = global.chatgpt.data.users[m.sender];
