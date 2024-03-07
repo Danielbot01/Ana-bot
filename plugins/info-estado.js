@@ -25,8 +25,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` _*< INFO - ESTADO />*_
 
- ▢ *Prop.:* Monovan 
- ▢ *WA:* +527299350963
+ ▢ *Prop.:* AnaShop 
+ ▢ *WA:* +529621377964
 
  ▢ *Ping:* ${rtime}
  ▢ *Uptime:* ${uptime}
@@ -68,10 +68,10 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/Danielbot01/monovan-bot-.git",
         mediaType: 2,
         previewType: "pdf",
-        title: "Monovan Bot ",
+        title: "Ana-Bot",
         body: "Whatsapp",
         thumbnail: imagen1,
-        sourceUrl: "wa.me/527299350963",
+        sourceUrl: "wa.me/529621377964",
       },
     },
     caption: info,
